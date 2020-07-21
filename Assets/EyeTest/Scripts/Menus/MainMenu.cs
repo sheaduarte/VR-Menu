@@ -9,7 +9,7 @@ namespace EyeTest
     {
         public void OnEyeTestPressed()
         {
-            LevelLoader.LoadLevel(1)
+            LevelLoader.LoadLevel(1);
         }
     }
 }
